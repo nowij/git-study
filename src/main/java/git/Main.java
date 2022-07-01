@@ -7,6 +7,9 @@ public class Main {
 		System.out.println("내용2");
 		
 		System.out.println("내용3");
+		
+		System.out.println("내용4");
+		System.out.println("내용5");
 	}
 
 }
